@@ -1,0 +1,17 @@
+header{
+   text-align: center;
+   margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    margin: auto;
+}
+
+figure, nav {
+    text-align: center;
+}
